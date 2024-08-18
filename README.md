@@ -7,4 +7,4 @@
 🌍 You can reach me on my Mail ID : adithyab0727@gmail.com <br/>
 
 
-[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya0727)](https://github.com/anuraghazra/github-readme-stats&hide=contribs,prs,issues,stars)
+[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya0727&hide=contribs,prs,issues,stars)](https://github.com/anuraghazra/github-readme-stats)
