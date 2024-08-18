@@ -14,6 +14,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adithya0727&theme=radical&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adithya0727&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
