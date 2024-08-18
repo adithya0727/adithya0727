@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 [![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya0727&show_icons=true&hide=contribs,issues,stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adithya0727&theme=radical&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adithya0727&theme=radical&no-frame=false&no-bg=true&margin-w=4)
