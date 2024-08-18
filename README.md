@@ -6,3 +6,5 @@
 🧠 I’m currently learning how to Master Data Structures and Algorithms => #learninginpublic in my [DSA360](https://github.com/adithya0727/DSA360/) <br/>
 🌍 You can reach me on my Mail ID : adithyab0727@gmail.com <br/>
 
+
+[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya0727)](https://github.com/anuraghazra/github-readme-stats)
